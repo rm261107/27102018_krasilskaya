@@ -1,1 +1,8 @@
-<h1>Продукт</h1>
+<?php
+    $cssFiles = [];
+    include($_SERVER['DOCUMENT_ROOT'].'/parts/header.php');
+?>
+
+<?php 
+    include($_SERVER['DOCUMENT_ROOT'].'/parts/footer.php');
+?> 
